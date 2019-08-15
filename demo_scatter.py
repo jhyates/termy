@@ -1,6 +1,5 @@
 # demo_scatter.py
 # Termy
-# Joseph Yates
-# 15 Aug 2019
+# This software is available under an MIT License.
 
 # Placeholder comment
